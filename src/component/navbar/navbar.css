@@ -1,0 +1,39 @@
+/* navbar.css */
+.navbar {
+    background-color: white;
+    transition: box-shadow 0.3s;
+    z-index: 10; /* Ensure the navbar has a base z-index */
+  }
+  
+  .navbar img {
+    height: 60px; /* Adjusted height for larger logo */
+    width: auto;
+  }
+  
+  .navbar-sticky {
+    position: sticky;
+    top: 0;
+    box-shadow: 0 2px 2px -2px gray; /* Decrease shadow intensity */
+    z-index: 100; /* Higher z-index to stay above other elements */
+  }
+  
+  .navbar .search-container {
+    display: flex;
+    align-items: center;
+    background-color: #f3f4f6;
+    border-radius: 5px;
+    padding: 0.25rem 0.5rem;
+  }
+  
+  .navbar .search-container input {
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 0.5rem;
+  }
+  
+  .navbar .search-container svg {
+    color: #6b7280; /* Tailwind Gray-400 */
+    margin-left: 0.5rem;
+  }
+  

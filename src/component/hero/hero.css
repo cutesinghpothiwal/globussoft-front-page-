@@ -1,0 +1,7 @@
+:root {
+   --button-color: linear-gradient(147deg, #ff8000,#f2b04d);
+  }
+
+.button{
+    background: var(--button-color)
+}                
