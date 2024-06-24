@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/globussoft-front-page/static/css/main.4d87ae35.css",
-    "main.js": "/globussoft-front-page/static/js/main.827ad9da.js",
-    "static/js/453.d7419edb.chunk.js": "/globussoft-front-page/static/js/453.d7419edb.chunk.js",
-    "static/media/slider.jpeg": "/globussoft-front-page/static/media/slider.f2b79ddbffba2e5ef069.jpeg",
-    "static/media/cure.png": "/globussoft-front-page/static/media/cure.dbc54a9808ce121086ed.png",
-    "static/media/grocbasket.png": "/globussoft-front-page/static/media/grocbasket.f95333fe25717e631445.png",
-    "static/media/brandzter.jpg": "/globussoft-front-page/static/media/brandzter.dab0abac83f13084e12c.jpg",
-    "static/media/gramboard.png": "/globussoft-front-page/static/media/gramboard.f30b4065e80d9046e784.png",
-    "static/media/brain.png": "/globussoft-front-page/static/media/brain.a3abe4de79758791cebe.png",
-    "static/media/space.png": "/globussoft-front-page/static/media/space.be06b349d6fd18b64ac4.png",
-    "static/media/socioboard.png": "/globussoft-front-page/static/media/socioboard.98ddc63525754b75add9.png",
-    "static/media/bow.png": "/globussoft-front-page/static/media/bow.4240025650af516c0d3f.png",
-    "static/media/socioleads.png": "/globussoft-front-page/static/media/socioleads.7052dad9705704145f2d.png",
-    "index.html": "/globussoft-front-page/index.html",
-    "main.4d87ae35.css.map": "/globussoft-front-page/static/css/main.4d87ae35.css.map",
-    "main.827ad9da.js.map": "/globussoft-front-page/static/js/main.827ad9da.js.map",
-    "453.d7419edb.chunk.js.map": "/globussoft-front-page/static/js/453.d7419edb.chunk.js.map"
+    "main.css": "/globussoft-front-page-/static/css/main.4d87ae35.css",
+    "main.js": "/globussoft-front-page-/static/js/main.0cbbc624.js",
+    "static/js/453.d7419edb.chunk.js": "/globussoft-front-page-/static/js/453.d7419edb.chunk.js",
+    "static/media/slider.jpeg": "/globussoft-front-page-/static/media/slider.f2b79ddbffba2e5ef069.jpeg",
+    "static/media/cure.png": "/globussoft-front-page-/static/media/cure.dbc54a9808ce121086ed.png",
+    "static/media/grocbasket.png": "/globussoft-front-page-/static/media/grocbasket.f95333fe25717e631445.png",
+    "static/media/brandzter.jpg": "/globussoft-front-page-/static/media/brandzter.dab0abac83f13084e12c.jpg",
+    "static/media/gramboard.png": "/globussoft-front-page-/static/media/gramboard.f30b4065e80d9046e784.png",
+    "static/media/brain.png": "/globussoft-front-page-/static/media/brain.a3abe4de79758791cebe.png",
+    "static/media/space.png": "/globussoft-front-page-/static/media/space.be06b349d6fd18b64ac4.png",
+    "static/media/socioboard.png": "/globussoft-front-page-/static/media/socioboard.98ddc63525754b75add9.png",
+    "static/media/bow.png": "/globussoft-front-page-/static/media/bow.4240025650af516c0d3f.png",
+    "static/media/socioleads.png": "/globussoft-front-page-/static/media/socioleads.7052dad9705704145f2d.png",
+    "index.html": "/globussoft-front-page-/index.html",
+    "main.4d87ae35.css.map": "/globussoft-front-page-/static/css/main.4d87ae35.css.map",
+    "main.0cbbc624.js.map": "/globussoft-front-page-/static/js/main.0cbbc624.js.map",
+    "453.d7419edb.chunk.js.map": "/globussoft-front-page-/static/js/453.d7419edb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d87ae35.css",
-    "static/js/main.827ad9da.js"
+    "static/js/main.0cbbc624.js"
   ]
 }
