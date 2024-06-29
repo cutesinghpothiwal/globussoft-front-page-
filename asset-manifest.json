@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/globussoft-front-page-/static/css/main.4d87ae35.css",
-    "main.js": "/globussoft-front-page-/static/js/main.0cbbc624.js",
+    "main.css": "/globussoft-front-page-/static/css/main.3d33f4e9.css",
+    "main.js": "/globussoft-front-page-/static/js/main.5ba35558.js",
     "static/js/453.d7419edb.chunk.js": "/globussoft-front-page-/static/js/453.d7419edb.chunk.js",
     "static/media/slider.jpeg": "/globussoft-front-page-/static/media/slider.f2b79ddbffba2e5ef069.jpeg",
     "static/media/cure.png": "/globussoft-front-page-/static/media/cure.dbc54a9808ce121086ed.png",
@@ -14,12 +14,12 @@
     "static/media/bow.png": "/globussoft-front-page-/static/media/bow.4240025650af516c0d3f.png",
     "static/media/socioleads.png": "/globussoft-front-page-/static/media/socioleads.7052dad9705704145f2d.png",
     "index.html": "/globussoft-front-page-/index.html",
-    "main.4d87ae35.css.map": "/globussoft-front-page-/static/css/main.4d87ae35.css.map",
-    "main.0cbbc624.js.map": "/globussoft-front-page-/static/js/main.0cbbc624.js.map",
+    "main.3d33f4e9.css.map": "/globussoft-front-page-/static/css/main.3d33f4e9.css.map",
+    "main.5ba35558.js.map": "/globussoft-front-page-/static/js/main.5ba35558.js.map",
     "453.d7419edb.chunk.js.map": "/globussoft-front-page-/static/js/453.d7419edb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d87ae35.css",
-    "static/js/main.0cbbc624.js"
+    "static/css/main.3d33f4e9.css",
+    "static/js/main.5ba35558.js"
   ]
 }
