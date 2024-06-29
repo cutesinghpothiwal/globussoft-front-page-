@@ -7,7 +7,9 @@ import WorkEthic from "./component/how-we-work/how-we-work";
 import MarqueeText from "./component/marquee/marquee";
 import Navbar from "./component/navbar/navbar";
 import Qualities from "./component/qualities/qualities";
+
 import Testimonials from "./component/trusted-brands/trust";
+
 
 function App() {
   return (
@@ -22,15 +24,17 @@ function App() {
       </div>
       <MarqueeText />
 
-      <div className="container mx-auto">
+      <div className="container mx-auto ">
         <Testimonials />
+
+   
       </div>
       
 
       <Contact  />
       
 
-      <div className="container mx-auto">
+      <div className="container mx-auto ">
         <Footer />
       </div>
     </div>

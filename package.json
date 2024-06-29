@@ -1,7 +1,7 @@
 {
   "homepage": "https://globussoft.github.io/globussoft-front-page-",
   "name": "golbusoft",
-  "version": "0.1.0", 
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -15,6 +15,7 @@
     "react-router": "^6.23.1",
     "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
+    "react-slick": "^0.30.2",
     "react-swipeable": "^7.0.1",
     "swiper": "^11.1.4",
     "web-vitals": "^2.1.4"
